@@ -171,7 +171,6 @@ class _SafeHomeState extends State<SafeHome> {
         child: Container(
           height: 180,
           width: MediaQuery.of(context).size.width * 0.7,
-          decoration: BoxDecoration(),
           child: Row(
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [

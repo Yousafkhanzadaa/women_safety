@@ -6,9 +6,8 @@ import 'package:women_safety_app/child/bottom_page.dart';
 import 'package:women_safety_app/components/PrimaryButton.dart';
 
 import '../child/bottom_screens/profile_page.dart';
-import '../parent/parent_register_screen.dart';
+
 import '../utils/constants.dart';
-import 'personal_info_page.dart';
 
 class ProfileItem {
   final String? item;

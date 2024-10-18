@@ -163,6 +163,7 @@ class _RegisterParentScreenState extends State<RegisterParentScreen> {
                                           !email.contains("@")) {
                                         return 'enter correct email';
                                       }
+                                      return null;
                                     },
                                   ),
                                   CustomTextField(
@@ -179,6 +180,7 @@ class _RegisterParentScreenState extends State<RegisterParentScreen> {
                                           !email.contains("@")) {
                                         return 'enter correct email';
                                       }
+                                      return null;
                                     },
                                   ),
                                   CustomTextField(
