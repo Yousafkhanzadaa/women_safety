@@ -18,5 +18,3 @@ samples, guidance on mobile development, and a full API reference....
 
 Jusn
 Jaunsnabbs
-Nznjs.
-Nzjs
